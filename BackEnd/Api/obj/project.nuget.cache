@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4KrA5usFt8=",
+  "dgSpecHash": "uhDNrd2ue7c=",
   "success": true,
-  "projectFilePath": "E:\\2.CodeTools\\FullstackProjects\\BestBuy\\FrontEnd\\Api\\Api.csproj",
+  "projectFilePath": "E:\\2.CodeTools\\FullstackProjects\\BestBuy\\BackEnd\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Sonic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
