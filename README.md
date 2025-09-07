@@ -13,7 +13,7 @@ Middleware
 HTTP Response errors
 client side error handing
 
-FrontEnd
+FrontEnd Todo
 -cache
 
 -Hooks:useState,useEffect,
@@ -33,4 +33,4 @@ BackENd
 -using DRY Design Principle
 -added controller to test errors
 -------
-what is performance or  middleware in a react app?
+
